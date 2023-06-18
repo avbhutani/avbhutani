@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Bhutani</h1>
 <h3 align="center">A passionate Software Engineer Developer from India</h3>
 
-<img align = right width = 300px src = "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478atuegif9f551jcrz8cymtdjzmwcpd9u6iaqdwam&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt = "coding">
+<img align = center margin = 10px width = 400px src = "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478atuegif9f551jcrz8cymtdjzmwcpd9u6iaqdwam&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt = "coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avbhutani&label=Profile%20views&color=0e75b6&style=flat" alt="avbhutani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avbhutani" alt="avbhutani" /></a> </p>
