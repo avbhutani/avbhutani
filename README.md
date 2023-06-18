@@ -3,7 +3,10 @@
 
 <img align = right margin = 10px width = 250px src = "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478atuegif9f551jcrz8cymtdjzmwcpd9u6iaqdwam&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt = "coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avbhutani&label=Profile%20views&color=0e75b6&style=flat" alt="avbhutani" /> </p>
-
+<div>
+👋 Hello! I'm Anubhav Bhutani, a passionate software engineering student on a mission to revolutionize the digital landscape. With a relentless drive for learning and a deep curiosity for all things tech, I am constantly exploring the realms of code to create innovative solutions that make a lasting impact. Join me as we embark on an exciting journey of endless possibilities and shape the future through the power of software engineering! 🚀💻
+</div>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avbhutani" alt="avbhutani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/avbhutani" target="blank"><img src="https://img.shields.io/twitter/follow/avbhutani?logo=twitter&style=for-the-badge" alt="avbhutani" /></a> </p>
