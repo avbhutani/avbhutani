@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/avbhutani" target="blank"><img src="https://img.shields.io/twitter/follow/avbhutani?logo=twitter&style=for-the-badge" alt="avbhutani" /></a> </p>
 
-- 💬 Ask me about **DSA, C/C++, Python, HTML, CSS**
+- 💬 Ask me about **DSA, C/C++, Python, HTML, CSS With Frameworks Tailwind as well as BootStrap, JavaScript**
 
 - 📫 How to reach me **avbhutani3@gmail.com**
 
