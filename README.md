@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avbhutani3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xSxQIbAhwU3RG2VVQDpd-VTQd9f31Z_E/view?usp=drive_link](https://drive.google.com/file/d/1xSxQIbAhwU3RG2VVQDpd-VTQd9f31Z_E/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1lNQLJ8j3Y4ANhL2V2RWHqDcEoubn5K0M/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
