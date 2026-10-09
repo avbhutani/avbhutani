@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/codewithanubhav.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewithanubhav.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avbhutani3@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1lNQLJ8j3Y4ANhL2V2RWHqDcEoubn5K0M/view?usp=sharing)
 
 </div>
 
