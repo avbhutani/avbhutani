@@ -39,20 +39,16 @@ I'm a software engineer who loves building backend systems that scale. I work pr
       <br/><sub><b>Java</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-      <br/><sub><b>C</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-      <br/><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
       <br/><sub><b>Python</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
       <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+      <br/><sub><b>C++</b></sub>
     </td>
   </tr>
 </table>
@@ -68,10 +64,6 @@ I'm a software engineer who loves building backend systems that scale. I work pr
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
       <br/><sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-      <br/><sub><b>Bootstrap</b></sub>
     </td>
   </tr>
 </table>
